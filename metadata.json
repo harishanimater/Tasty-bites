@@ -1,0 +1,6 @@
+{
+  "name": "Tasty Bites - Indian Restaurant",
+  "description": "Authentic Indian Restaurant mobile and web app featuring veg/non-veg menu, table reservation, online ordering, live tracking, and editable branding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
